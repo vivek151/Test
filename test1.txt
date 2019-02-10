@@ -1,0 +1,2 @@
+Hi THis is second test file
+This file is to test git commands and github repository
